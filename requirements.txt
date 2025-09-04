@@ -1,0 +1,37 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Clustering & Dimensionality Reduction
+umap-learn
+
+# Optimization
+pulp
+ortools
+
+# LLM + NLP
+transformers
+accelerate
+sentencepiece
+torch
+langchain
+ollama  # if running locally
+openai
+datasets
+
+# Dashboard
+streamlit
+gradio
+
+# Utils
+jupyter
+notebook
+tqdm
